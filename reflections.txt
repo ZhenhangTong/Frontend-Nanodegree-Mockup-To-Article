@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1)I understand more about html, css and javascript, like data structure. Further more, the difference between <b> and <strong>, which some people don’t pay attention to. I believe my colleagues couldn’t tell the difference between them. :)
+2)So far everything goes well, for I’m a PHP engineer and I’m already familiar with HTML, CSS and Javascript. So it’s not difficult for me to keep up.
+3)Writing Javascript. It’s nearly completely new to me, for last time I wrote Javascript is like two years ago. I forgot it totally.
+4)Most of times, I googled it.
